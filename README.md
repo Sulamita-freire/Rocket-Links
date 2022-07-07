@@ -1,21 +1,23 @@
-# Redesign Neon
+# Rocket Link
 
 Link do Projeto
 
-<a link href="https://lp-neon-joanderson337.vercel.app/" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
+<a link href="https://rocket-links-sulamita-freire.vercel.app/" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
 
 
 ## Stack utilizada
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+          
+  
           
 
 ## Para executar o projeto ⤸
 
-1. `git clone` nesse repositório;
-2. Ter a extenção live server no seu vscode;
-3. Clicar com o botão direito, encima do arquivo `index.html` e selecionar `Abrir com live server` 
+1. git clone nesse repositório;
+2. Acessa pasta do repositório e executa yarn ou npm pra instalar as dependências;
+3. Executa yarn dev ou npm run dev pra iniciar o projeto 
 
 
   
@@ -24,6 +26,7 @@ Link do Projeto
 
 Desktop
 <br>
+![image](https://user-images.githubusercontent.com/96012046/177672832-3249c31a-d452-4cfb-b717-449e2a2a1486.png)
 
 
 <br>
@@ -31,7 +34,8 @@ Desktop
 
 Mobile
 <br>
-![image](https://user-images.githubusercontent.com/77758027/175203574-0690e6f1-8fdb-4252-8416-885878878430.png)
+![image](https://user-images.githubusercontent.com/96012046/177672996-c015bb1d-2147-432c-ab25-38970447504d.png)
+
 
 
 
