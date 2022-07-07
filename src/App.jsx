@@ -11,7 +11,7 @@ export function App(){
       <Button title="📷 Instagram"/>
       <Button title="💻 Facebook"/>
       <Button title="🐱 Github"/>
-      <Footer description="Feito com ♥ pela Rocketseat"/>
+      <Footer description="Feito com ♥"/>
     </main>
   )
 }
