@@ -1,0 +1,24 @@
+ button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 80px;
+    gap: 10px;
+
+    width: 300px;
+    height: 53px;
+
+    background: #4263EB;
+    border-radius: 6px;
+    
+    margin-top: 20px;
+}
+
+a {
+    color: white;
+    font-size: 14px;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+

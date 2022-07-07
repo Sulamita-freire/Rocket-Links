@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.elipse {
+    position: absolute;
+    top: 30px
+}
+
+.perfil {
+    position: relative;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #00082F;
+}
+
+span { 
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+
+    text-align: center;
+
+    color: rgba(0, 8, 47, 0.8);
+}
